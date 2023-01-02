@@ -2,7 +2,7 @@
 ## 另外，该网站建议使用科学上网VPN访问，否则下载速度会很慢，vpn可在https://www.github.com 内直接搜索下载使用。
 # 美食交流群:https://t.me/+l7DOrDQT2yQ0NTBl
 #### FEC美食大战老鼠破解版
-###### 使用前请务必下载release区的视频说明并仔细阅读，造成损失概不负责
+## 使用前请务必下载release区的视频说明并仔细阅读，造成损失概不负责https://github.com/sendino-hashilate/fecmdszls/releases/tag/FEC%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B
 # 下载地址：https://github.com/sendino-hashilate/fecmsdzls/releases
 ##### FEC自动挂机目前只能同时挂10个号，且不可以多开软件，目前已经找到突破10个号限制的方法，正在进行研究，破解完成后会进行发布。
 ### 因为本软件是本人破解，有问题可以在issue进行提问。
