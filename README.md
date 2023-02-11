@@ -2,6 +2,7 @@
 ## 另外，该网站建议使用科学上网VPN访问，否则下载速度会很慢，vpn可在https://www.github.com 内直接搜索下载使用。
 # 美食交流群:https://t.me/+l7DOrDQT2yQ0NTBl
 # FEC美食大战老鼠破解版（收到大量用户无法使用的情况，目前软件进入破解维护期）
+# 至于何时修复尚不清楚
 ## 使用前请务必下载release区的视频说明并仔细阅读，造成损失概不负责https://github.com/sendino-hashilate/fecmdszls/releases/tag/FEC%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B
 # 下载地址：https://github.com/sendino-hashilate/fecmdszls/releases
 ##### FEC的10个号破解已完成，另外暗桩尚未完全剥离，有账号泄露的风险，请最好不要使用大号登录此软件
